@@ -21,7 +21,7 @@ A curated hub for my articles on Product Management frameworks, methodologies, a
 3. Watch this repo (↑ top-right) to get updates on new articles
 
 ## 💡 Suggest a Topic
-Found a gap in product management content? [Open an Issue]([https://github.com/your-username/your-repo-name](https://github.com/DineshCodeFlow/product-management-insights-collection/issues) to suggest topics you'd like me to cover!
+Found a gap in product management content? [Open an Issue](https://github.com/DineshCodeFlow/product-management-insights-collection/issues) to suggest topics you'd like me to cover!
 
 ---
 
