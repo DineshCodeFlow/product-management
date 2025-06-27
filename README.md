@@ -9,6 +9,7 @@ A curated hub for my articles on Product Management frameworks, methodologies, a
 | Title | Description | Category | Link |
 |-------|-------------|------|------ |
 | **Beyond the Double Diamond** | The Ultimate End-to-End Product Discovery Framework with Shorter Loop | Product discovery | [Read Article](https://shorterloop-product-discovery-tool-product-vision-canvas.pages.dev/) |
+| **Product Discovery** | Product Discovery: The Ultimate Guide to Building Products That Win | Product discovery | [Read Article](https://product-discovery-guide.vercel.app/) |
 
 ## 🌱 Coming Soon
 - Product Strategy for Hypergrowth Environments
