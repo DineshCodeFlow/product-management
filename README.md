@@ -1,6 +1,6 @@
 # Product Management Insights Collection
 
-[![Blogs](https://img.shields.io/badge/Product_Management-Blogs-blue?logo=github)](https://github.com/your-username/your-repo-name)
+[![Blogs](https://img.shields.io/badge/Product_Management-Blogs-blue?logo=github)]([https://github.com/your-username/your-repo-name](https://github.com/DineshCodeFlow/product-management-insights-collection))
 
 A curated hub for my articles on Product Management frameworks, methodologies, and best practices. This repository serves as a centralized knowledge base for product leaders and enthusiasts.
 
@@ -21,7 +21,7 @@ A curated hub for my articles on Product Management frameworks, methodologies, a
 3. Watch this repo (↑ top-right) to get updates on new articles
 
 ## 💡 Suggest a Topic
-Found a gap in product management content? [Open an Issue](https://github.com/your-username/your-repo-name/issues) to suggest topics you'd like me to cover!
+Found a gap in product management content? [Open an Issue]([https://github.com/your-username/your-repo-name](https://github.com/DineshCodeFlow/product-management-insights-collection)/issues) to suggest topics you'd like me to cover!
 
 ---
 
