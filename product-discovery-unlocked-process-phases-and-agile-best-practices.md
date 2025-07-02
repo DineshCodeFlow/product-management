@@ -1,7 +1,8 @@
-# Product Discovery Unlocked: Process, Phases & Agile Best Practices  
-**Shorter Loop Newsletter Edition #2**
-
+![Discovery Phase_ Uncover What Customers Actually Need (1)](https://github.com/user-attachments/assets/7f287b24-1702-46bb-ad0a-305265d5de46)# Product Discovery Unlocked: Process, Phases & Agile Best Practices  
 ---
+
+![Discovery Phase_ Uncover What Customers Actually Need (1)](https://github.com/user-attachments/assets/a92ee0ed-b396-4855-91bd-bbd6a83bbfc1)
+
 
 ## The Cost of Skipping Discovery
 According to industry research, teams that bypass product discovery spend up to **60% of their time** building features users ignore. A solid discovery phase prevents this by grounding every decision in real user insight—before a single line of code is written.
@@ -21,6 +22,8 @@ By embedding discovery into your workflow, you ensure each feature you build add
 - **Improved Market Fit:** Identify and prioritize the highest-value opportunities.  
 - **Cross‑Functional Alignment:** Engage product, design, and engineering in shared discovery sessions.  
 - **Reduced Rework:** Uncover flawed assumptions early to save time and budget.
+  
+![image](https://github.com/user-attachments/assets/d2de32ba-9f0a-4caf-b38b-471ce85dc3da)
 
 ---
 
@@ -32,6 +35,7 @@ By embedding discovery into your workflow, you ensure each feature you build add
 5. **Decision & Planning:** Review evidence, decide to pivot or proceed, and update your delivery backlog.
 
 > These phases loop continuously, creating a feedback-driven roadmap.
+![image](https://github.com/user-attachments/assets/0f2a11a3-9e91-4b2f-95f6-8ec58c2de656)
 
 ---
 
@@ -50,13 +54,14 @@ This approach ensures that Agile sprints deliver features grounded in user valid
 - **Opportunity‑Solution Mapping:** Visualize the path from desired outcomes to potential experiments.  
 - **Lean MVPs:** Test the riskiest assumptions with the minimum viable investment.  
 - **User Journey Mapping:** Highlight pain points and friction in real workflows.
+![image](https://github.com/user-attachments/assets/8a3e7e44-6520-46f2-a10c-bfbf0d491cdf)
 
 ---
 
 ## Recommended Tools
 1. **Shorter Loop**  
    End‑to‑end platform that links discovery to strategy and delivery. Centralize feedback, generate AI‑driven insights, and map opportunities—all in one workspace.  
-   Learn more at [help.shorterloop.com/product-discovery](https://help.shorterloop.com/product-discovery)
+   Learn more at [Shorter Loop's product discover process](https://knowledgebase.shorterloop.com/how-to-start-with-product-discovery-1172819m0)
 
 2. **Maze** for rapid, unmoderated testing  
 3. **UserTesting** for in‑depth qualitative research  
