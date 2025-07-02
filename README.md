@@ -10,7 +10,7 @@ A curated hub for my articles on Product Management frameworks, methodologies, a
 |-------|-------------|------|------ |
 | **Beyond the Double Diamond** | The Ultimate End-to-End Product Discovery Framework with Shorter Loop | Product discovery | [Read Article](https://shorterloop-product-discovery-tool-product-vision-canvas.pages.dev/) |
 | **Product Discovery** | Product Discovery: The Ultimate Guide to Building Products That Win | Product discovery | [Read Article](https://product-discovery-guide.vercel.app/) |
-| **Product Discovery** | One Complete Guide To Product Discovery: Empower Product Teams | Product discovery | [Read Article]([https://product-discovery-guide.vercel.app/](https://dineshcodeflow.github.io/product-management-insights-collection/product-discovery-unlocked-process-phases-and-agile-best-practices)) |
+| **Product Discovery** | One Complete Guide To Product Discovery: Empower Product Teams | Product discovery | [Read Article](https://dineshcodeflow.github.io/product-management-insights-collection/product-discovery-unlocked-process-phases-and-agile-best-practices) |
 
 ## 🌱 Coming Soon
 - Product Strategy for Hypergrowth Environments
