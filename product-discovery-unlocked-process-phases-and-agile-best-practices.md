@@ -1,4 +1,6 @@
-![Discovery Phase_ Uncover What Customers Actually Need (1)](https://github.com/user-attachments/assets/7f287b24-1702-46bb-ad0a-305265d5de46)# Product Discovery Unlocked: Process, Phases & Agile Best Practices  
+![Discovery Phase_ Uncover What Customers Actually Need (1)](https://github.com/user-attachments/assets/7f287b24-1702-46bb-ad0a-305265d5de46)
+
+# Product Discovery Unlocked: Process, Phases & Agile Best Practices  
 ---
 
 ![Discovery Phase_ Uncover What Customers Actually Need (1)](https://github.com/user-attachments/assets/a92ee0ed-b396-4855-91bd-bbd6a83bbfc1)
